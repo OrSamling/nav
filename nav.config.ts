@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/OrSamling/av',
 
   // 部署分支
   branch: 'main',
@@ -17,7 +17,7 @@ const c: IConfig = {
   homeUrl: 'https://nav3.cn',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '孤岛与鲸',
 
   // 网站描述
   description: '发现导航 - 精选实用导航网站',
